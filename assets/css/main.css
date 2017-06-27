@@ -903,6 +903,14 @@ div[class*="col-"] > .form-group {
   margin-top: 40px;
 }
 
+/*insert-here*/
+.img-contactme {
+  /*height: 10%;*/
+  max-width: 100%;
+    height: auto;
+
+}
+
 /*------------------------------------------------*/
 /*	Footer
 /*------------------------------------------------*/
